@@ -1,0 +1,1 @@
+Put the CURL headers in this folder, and the libraries (i.e. LIBCURL.LIB or LIBCURL.A) in 'bin'.

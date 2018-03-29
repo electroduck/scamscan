@@ -1,0 +1,1 @@
+Put the PCRE include files in 'include' and libraries (.a and .lib files) in 'lib'.
